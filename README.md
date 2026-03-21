@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ayush Pandey</h1>
 
 <p align="center">
-  🎓 B.Tech CSE (AI) | 2027 Batch · Greater Noida, India<br/>
+  🎓 B.Tech CSE (AI) | 2027 Batch · Greater Noida., India<br/>
   📊 Aspiring <b>Data Analyst</b> · 💻 DSA & Problem Solving · 🚀 Learning Every Day
 </p>
 
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  📍 Greater Noida, Uttar Pradesh · ✉️ ayushpandey7390@gmail.com
+  📍 Greater Noida , Uttar Pradesh · ✉️ ayushpandey7390@gmail.com
 </p>
 
 <!--
